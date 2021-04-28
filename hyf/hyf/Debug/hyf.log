@@ -1,0 +1,6 @@
+﻿  SemanticAnalysis.cpp
+F:\天龙在世\Desktop\编译原理实验\hyf3\hyf\SemanticAnalysis.cpp(212,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\天龙在世\Desktop\编译原理实验\hyf3\hyf\SemanticAnalysis.cpp(265,11): warning C4018: “<”: 有符号/无符号不匹配
+F:\天龙在世\Desktop\编译原理实验\hyf3\hyf\SemanticAnalysis.cpp(288,11): warning C4018: “<”: 有符号/无符号不匹配
+F:\天龙在世\Desktop\编译原理实验\hyf3\hyf\SemanticAnalysis.cpp(313,20): warning C4018: “<”: 有符号/无符号不匹配
+  hyf.vcxproj -> F:\天龙在世\Desktop\编译原理实验\hyf3\Debug\hyf.exe
